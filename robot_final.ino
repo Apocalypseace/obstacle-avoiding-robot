@@ -159,7 +159,6 @@ digitalWrite(i1,HIGH);
 digitalWrite(i2,LOW);
 digitalWrite(i3,HIGH);
 digitalWrite(i4,LOW);
-// the delay can be adjusted to suit your turn
       delay(300);
 
   digitalWrite(in1,LOW);

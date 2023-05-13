@@ -114,7 +114,7 @@ digitalWrite(i1,LOW);
 digitalWrite(i2,HIGH);
 digitalWrite(i3,LOW);
 digitalWrite(i4,HIGH);
-      delay(250);
+      delay(300);
 
   digitalWrite(in1,LOW);
   digitalWrite(in2,LOW);
